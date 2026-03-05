@@ -1,1 +1,1 @@
-# Proyecto-Stock
+# Proyecto - Stock
